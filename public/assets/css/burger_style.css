@@ -1,0 +1,30 @@
+body {
+ background-color: #edc67b;
+}
+#burger-pic {
+    height: 100px;
+    margin-top: 10px;
+}
+
+
+p {
+    font-size: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+.img {
+  background-color: #edc67b;
+  border: none;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+
+  text-align: center;
+}
