@@ -25,7 +25,7 @@ app.set('view engine', 'handlebars');
 var router = require('./controllers/burgers_controllers.js');
 app.use('/', router);
 
-// Open Server
+
 var port = process.env.PORT || 3000;
 
 db.sequelize.sync().then(function() {
