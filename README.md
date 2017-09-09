@@ -17,4 +17,4 @@ Has the same functionality of the last app but uses the Sequelize ORM.
 
 **Screenshot**
 
-![Alt text](assets/img/github.png?raw=true "burgers")
+![Alt text](https://raw.githubusercontent.com/psingh24/sequelizedBurger/master/public/assets/img/github.png "burgers")
